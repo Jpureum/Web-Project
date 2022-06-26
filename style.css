@@ -40,7 +40,7 @@ h3{
 main{
     font-family: sans-serif;
     min-height: 100vh;
-    background-image: url(a.jpg);
+    background-image: url(images/a.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
